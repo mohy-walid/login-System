@@ -191,7 +191,7 @@
     logoutBtn.addEventListener("click", function (e) {
       e.preventDefault();
       localStorage.removeItem("loggedUser");
-      window.location.href = "../sign-in.html";
+      window.location.href = "../index.html";
     });
   }
 });
