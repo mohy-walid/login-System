@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to right, #e0f0ff, #c2e9fb);
+}
+
+.container {
+  max-width: 900px;
+}
+.sign-up a{
+text-decoration: none;
+color: black;
+}
